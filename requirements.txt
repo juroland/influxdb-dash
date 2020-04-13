@@ -1,3 +1,5 @@
+arrow
 dash
+dash-bootstrap-components
 environs
 influxdb
